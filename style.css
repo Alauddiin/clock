@@ -1,0 +1,21 @@
+.clock-con{
+    background-color: rgb(56, 55, 55);
+    padding: 15px 5px;
+    width:55%;
+    margin: 50px auto;
+
+}
+
+.clock{
+    margin: auto;
+    border:2px solid rgb(41, 37, 37);
+    padding: 5px;
+    width:90%;
+    text-align: center;
+    background-color: #000;
+    color:#fff;
+
+}
+h2{
+    display: inline-block;
+}
