@@ -3,9 +3,9 @@
 function clock(){
 
         let date = new Date()
-        let second = date.getSeconds() //0-23
+        let second = date.getSeconds() //0-59
         let minute = date.getMinutes() //0-59
-        let hour = date.getHours() //0-59
+        let hour = date.getHours() //0-23
         let timeFormat = 'AM'
 
         if(hour===0){
